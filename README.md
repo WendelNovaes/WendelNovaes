@@ -33,9 +33,7 @@
 </a>
 
 
-<p align="center">
-  <img src="https://github.com/WendelNovaes/WendelNovaes/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
-</p>
+
 
 
 <!--
@@ -54,6 +52,10 @@ Here are some ideas to get you started:
 -->
 
 #
+
+<p align="center">
+  <img src="https://github.com/WendelNovaes/WendelNovaes/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
+</p>
 
 
 <div>
