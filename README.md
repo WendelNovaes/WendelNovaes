@@ -10,10 +10,7 @@
   </a>
 
  
-  <p align="center">
-  <a href="https://github.com/WendelNovaes">
-    <img height="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=WendelNovaes&theme=bear"/>
-  </a>
+  
 
 
 
