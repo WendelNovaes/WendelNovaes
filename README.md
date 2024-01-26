@@ -2,15 +2,10 @@
 
 
 
+<div align="center">
 
-## 📈 Github Stats
-
-
-  <hr/>
-
-  <div>
-    <img alt="Wendel Novaes Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=WendelNovaes&custom_title=Dario%20De%20Nardi's%20Contribution%20Graph&bg_color=0D1117&color=0078D4&line=FFFFFF&point=0078D4&hide_border=true" />
-  <div>
+  ![Snake animation](https://github.com/WendelNovaeas/WeendelNovaes/blob/output/github-contribution-grid-snake-WendelNovaes.svg)
+  
 </div>
 
 
@@ -24,6 +19,23 @@
 <br><br>
 
 
+<p align="center">
+<a href="https://github.com/WendelNovaes">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WendelNovaes&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WendelNovaes&layout=compact&langs_count=8&theme=bear"/>
+</a>
+
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WendelNovaes&theme=github)
+ 
+  <p align="center">
+<a href="https://github.com/WendelNovaes">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=WendelNovaes&theme=bear"/>
+</a>
+
+
+<p align="center">
+  <img src="https://github.com/WendelNovaes/WendelNovaes/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
+</p>
 
 
 <!--
@@ -46,5 +58,6 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://github.com/WendelNovaes">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelNovaes&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=WendelNovaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
