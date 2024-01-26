@@ -1,7 +1,7 @@
 ### Olá 👋
 
 
-![Snake animation](https://github.com/WendelNovaes/WendelNovaes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/WendelNovaes/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center"> 
  <picture>
