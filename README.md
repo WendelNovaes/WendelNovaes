@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá 👋
+
+
+![Snake animation](https://github.com/WendelNovaees/WendelNovaes/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **WendelNovaes/WendelNovaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
