@@ -2,35 +2,23 @@
 
 
 
-<div align="center">
 
-  ![Snake animation](https://github.com/WendelNovaeas/WeendelNovaes/blob/output/github-contribution-grid-snake-WendelNovaes.svg)
-  
-</div>
-
-
-<div align="center"> 
- <picture>
-
-</picture> 
-</div>
 
 
 <br><br>
 
 
-<p align="center">
-<a href="https://github.com/WendelNovaes">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WendelNovaes&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WendelNovaes&layout=compact&langs_count=8&theme=bear"/>
-</a>
+  <p align="center">
+  <a href="https://github.com/WendelNovaes">
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WendelNovaes&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WendelNovaes&layout=compact&langs_count=8&theme=bear"/>
+  </a>
 
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WendelNovaes&theme=github)
  
   <p align="center">
-<a href="https://github.com/WendelNovaes">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=WendelNovaes&theme=bear"/>
-</a>
+  <a href="https://github.com/WendelNovaes">
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=WendelNovaes&theme=bear"/>
+  </a>
 
 
 
