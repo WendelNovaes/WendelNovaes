@@ -5,10 +5,6 @@
 
 ## 📈 Github Stats
 
-<div align="center">
-    
-    <img alt="Wendel Novaes Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=WendelNovae?username=WendelNovaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=FFFFFF&sideLabels=0078D4&currStreakLabel=0078D4&stroke=0078D4&ring=0078D4" />
-  </div>
 
   <hr/>
 
