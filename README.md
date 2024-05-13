@@ -1,12 +1,5 @@
 ### Olá 👋
 
-
-
-  <hr>
-  <a href="https://github.com/WendelNovaes">
-    <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=WendelNovaes&theme=bear"/>
-  </a>
-
   <hr>
 
 
